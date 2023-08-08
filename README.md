@@ -1,5 +1,5 @@
 ### Oi devs!! 🌻
-Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. 
+Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. Atualmente estou participando do projeto espaço maker na universidade e adquirindo novos conhecimentos.   
 <br> <br> 
  "Só por que algo funciona, não quer dizer que não pode ser melhorada" 
 <div>
