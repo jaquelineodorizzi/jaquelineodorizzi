@@ -1,6 +1,6 @@
 ### Oi devs!! 🌻
-Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. Atualmente estou participando do projeto espaço maker na universidade e adquirindo novos conhecimentos.   
-<br> <br> 
+Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. Atualmente estou cursando o 2º semestre de Engenharia de Software na Univille e participando do projeto científico EspaçoMaker
+<br> <br>  p
  "Só por que algo funciona, não quer dizer que não pode ser melhorada" 
 <div>
   <a href="https://beacons.ai/jaquelineodorizzi">
