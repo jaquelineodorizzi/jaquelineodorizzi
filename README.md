@@ -1,4 +1,4 @@
-### Oi devs!! 💞
+### Oi devs!! 🌻
 Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. 
 <br> <br> 
  "Só por que algo funciona, não quer dizer que não pode ser melhorada" 
