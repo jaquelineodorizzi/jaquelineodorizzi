@@ -1,5 +1,6 @@
 ### Oi devs!! 🌻
-Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. Atualmente estou cursando o 2º semestre de Engenharia de Software na Univille e participando do projeto científico EspaçoMaker
+   Me chamo Jaqueline, tenho 18 anos e estou iniciando nesse mundo de tecnologia. <br> 
+💻 Atualmente estou cursando o 2º semestre de Engenharia de Software na Univille e participando do projeto científico EspaçoMaker
 <br> <br>  p
  "Só por que algo funciona, não quer dizer que não pode ser melhorada" 
 <div>
